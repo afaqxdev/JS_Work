@@ -9,6 +9,7 @@ This project is part of my journey to learn JavaScript and understand its core c
 - 📦 Arrays and how to loop through them
 - 🔑 Objects and how to access their properties
 - ⚙️ Using `if` conditions to control the logic
+- ⚙️ Using '`While or do-while loop` are done 
 
 ## 💳 ATM Machine Project
 
