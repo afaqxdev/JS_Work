@@ -14,6 +14,8 @@ let val=0;
 // do while loop 
 
 
+
+
 do {
     console.log("I will run at least one time ",val)
     val++;
